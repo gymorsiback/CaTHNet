@@ -55,8 +55,6 @@ CaTHNet/
 ### Installation
 
 ```bash
-git clone https://anonymous.4open.science/r/Reliability-Aware-Heterogeneous-Hypergraph-Neural-6CFE
-cd CaTHNet
 pip install torch numpy pandas scikit-learn matplotlib seaborn
 ```
 
