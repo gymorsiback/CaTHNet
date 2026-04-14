@@ -128,19 +128,6 @@ Ground truth deployment decisions are derived through multi-objective optimizati
 | scikit-learn | 1.0+ |
 | Matplotlib | 3.5+ |
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@article{cathnet2026,
-  title={CaTHNet: Constraint-Aware Type-Gated Heterogeneous Hypergraph Learning for Intelligent Model Deployment in Distributed Cloud-Edge Environments},
-  author={Anonymous},
-  journal={Expert Systems with Applications},
-  year={2026}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
